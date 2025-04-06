@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @kulbirdhiman
-- 👀 I’m interested in web
-- 🌱 I’m currently learning mern
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey there 👋 I'm Kulbir Dhiman
 
-<!---
-kulbirdhiman/kulbirdhiman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💡 Passionate full-stack web developer with a focus on building modern, scalable applications.
+
+🧠 **Tech Stack:**
+- **Frontend:** HTML, CSS, JavaScript, Tailwind CSS, React.js, Next.js, TypeScript
+- **Backend:** Node.js, Express.js, MongoDB, MySQL
+- **Other Tools:** Git, GitHub, Postman, Framer Motion
+
+🔥 **Currently Exploring:** 
+- Advanced Next.js features
+- System Design and Architecture
+- Clean code and performance optimization
+
+🤝 **Looking to Collaborate On:**
+- MERN/Next.js full-stack projects
+- Real-time apps
+- eCommerce platforms
+
+📫 **Let’s connect:**
+- GitHub: [@kulbirdhiman](https://github.com/kulbirdhiman)
+- Email: dhimankulbir42@gmail.com *(update with your real email)*
+
