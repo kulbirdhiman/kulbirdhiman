@@ -19,5 +19,5 @@
 
 📫 **Let’s connect:**
 - GitHub: [@kulbirdhiman](https://github.com/kulbirdhiman)
-- Email: dhimankulbir42@gmail.com *(update with your real email)*
+- Email: dhimankulbir42@gmail.com 
 
