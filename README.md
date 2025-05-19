@@ -21,4 +21,3 @@
 - GitHub: [@kulbirdhiman](https://github.com/kulbirdhiman)
 - Email: dhimankulbir42@gmail.com 
 
-![Pull Shark](https://img.shields.io/badge/Achievement-Pull%20Shark-yellow?style=flat-square)
